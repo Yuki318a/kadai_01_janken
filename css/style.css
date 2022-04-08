@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+html{
+    font-size: 62.5%;
+
+}
+.body{
+    font-size:2.4rem;
+    line-height:3.0rem;  
+    width: 1356px;
+    margin:auto;
+}
+
